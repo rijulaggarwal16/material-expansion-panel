@@ -1,5 +1,7 @@
 # Expansion Panel
 
+[![npm version](https://badge.fury.io/js/material-expansion-panel.svg)](https://badge.fury.io/js/material-expansion-panel)
+
 This is a standalone React component implementing the [Expansion Panels](https://material.io/guidelines/components/expansion-panels.html), following Google Material Design guidelines. This component is highly customizable and uses material icons and buttons provided by [MDL](https://getmdl.io/).
 
 
