@@ -74,6 +74,7 @@ var aButtons = [{
 |`actionButtons`|Optional|Array of objects defining the use of action buttons at the bottom of the expanded panel|
 
 `actionIcons` object definition:
+
 |Property Name|Required?|Use|
 |---|:---:|---|
 |`icon`|Required|Material icon for the action button|
@@ -81,6 +82,7 @@ var aButtons = [{
 |`additionalParams`|Optional|Anything (object,array etc.) passed back into the callback|
 
 `actionButtons` object definition:
+
 |Property Name|Required?|Use|
 |---|:---:|---|
 |`buttonText`|Required|Text inside the action button|
